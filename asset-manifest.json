@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://tonyykosseifyy.github.io/csb-eut8xq/static/css/main.cb9effaf.chunk.css",
+    "main.js": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/main.84efd24c.chunk.js",
+    "main.js.map": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/main.84efd24c.chunk.js.map",
+    "runtime-main.js": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/runtime-main.7af40f65.js",
+    "runtime-main.js.map": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/runtime-main.7af40f65.js.map",
+    "static/css/2.ee779822.chunk.css": "https://tonyykosseifyy.github.io/csb-eut8xq/static/css/2.ee779822.chunk.css",
+    "static/js/2.3d238d7c.chunk.js": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/2.3d238d7c.chunk.js",
+    "static/js/2.3d238d7c.chunk.js.map": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/2.3d238d7c.chunk.js.map",
+    "index.html": "https://tonyykosseifyy.github.io/csb-eut8xq/index.html",
+    "static/css/2.ee779822.chunk.css.map": "https://tonyykosseifyy.github.io/csb-eut8xq/static/css/2.ee779822.chunk.css.map",
+    "static/css/main.cb9effaf.chunk.css.map": "https://tonyykosseifyy.github.io/csb-eut8xq/static/css/main.cb9effaf.chunk.css.map",
+    "static/js/2.3d238d7c.chunk.js.LICENSE.txt": "https://tonyykosseifyy.github.io/csb-eut8xq/static/js/2.3d238d7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af40f65.js",
+    "static/css/2.ee779822.chunk.css",
+    "static/js/2.3d238d7c.chunk.js",
+    "static/css/main.cb9effaf.chunk.css",
+    "static/js/main.84efd24c.chunk.js"
+  ]
+}
